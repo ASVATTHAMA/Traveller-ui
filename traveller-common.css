@@ -1,0 +1,214 @@
+.common{
+  margin-left: 0px;
+  margin-right: 0px;
+ 
+    display: flex;
+}
+.heading2 ul{
+    margin-top: 11px;
+}
+.section ul{
+    
+    font-size: 16px;
+}
+.st{
+display: flex;
+
+}
+.vaca h2{
+    font-size: 36px;
+    margin-top: -40px;
+    font-weight: 200;
+    width: 350px;
+}
+.vaca h3{
+    margin-top: -11px;
+    padding-left: 47px;
+}
+.vaca p{
+    font-weight: 500;
+    width: 274px;
+    font-size: 23px;
+    margin: 0px 0px 25px 3px;
+}
+.des{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.images1 .him{
+    width: 23%;
+    height: 15rem;
+    object-fit: cover;
+    margin-left: 36px;
+    margin-top: 18px;
+    border-radius: 5px;
+}
+.hima{
+    position: absolute;
+    margin: -96px 70px 0px;
+    font-size: 24px;
+    color: white;
+    border-radius: 5px;
+    
+}
+.images1{
+    display: flex;
+    margin-left: 30px;
+}
+.go{
+    width: 71%;
+    height: 15rem;
+    object-fit: cover;
+    margin-left: 98px;
+    margin-top: 18px;
+    border-radius: 5px;
+}
+.pun{
+    width: 89%;
+    height: 15rem;
+    object-fit: cover;
+    margin-left: 6px;
+    margin-top: 18px;
+    border-radius: 5px;
+}
+.utt{
+    width: 81%;
+    height: 15rem;
+    object-fit: cover;
+    margin-left: 0pxpx;
+    margin-top: 18px;
+    border-radius: 5px;
+}
+
+.hima1{
+    color: white;
+    position: relative;
+    margin: 170px 0px 24px -199px;
+}
+.hima2{
+    position: absolute;
+    margin: -97px 216px 0px;
+    font-size: 22px;
+    color: white;
+}
+.second{
+    display: flex;
+    margin-top: 10px;
+ 
+}
+.raja{
+    width: 20%;
+    height: 15rem;
+    margin: 0px 23px 0px 65px;
+    border-radius: 7px;
+    
+
+}
+.guj{
+    width: 178%;
+    height: 15rem;
+    border-radius: 8px;
+}
+.background{
+    background-color: rgba(245, 245, 245, 0.8);
+    padding: 0;
+    margin: 0;
+    
+}
+.fam img{
+    width: 84%;
+    height: 30rem;
+    object-fit: cover;
+    margin: 122px 0px 0px 95px;
+    
+}
+.fam{
+    background-color: rgba(245, 245, 245, 0.8);
+    margin: 0px 0px -80px 0px;
+    /* border-bottom: 2px solid pink; */
+    padding-bottom: 78px
+    
+}
+.imgbtn{
+    width: 49%;
+    height: 21rem;
+    position: absolute;
+    background-color: #ff8869;
+    margin: -338px 0px 0px 524px;
+}
+.imgbtn h3{
+    font-size: 26px;
+    color: white;
+    margin-left: 18px;
+}
+.imgbtn h4{
+    font-size: 14px;
+    color: white;
+    margin-left: 18px;
+    width: 552px;
+}
+.imgbtn button{
+    margin-left: 17px;
+    background-color: black;
+    color: white;
+    width: 148px;
+    height: 32px;
+}
+.photo{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 2px solid pink;
+    background-color: #cfcfcf00;
+    padding-bottom: 46px;
+    padding-top: 11px;
+
+}
+.photo1 img{
+    height: 7rem;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+.photo1{
+    
+    width: 230px;
+    height: 15rem;
+    text-align: center;
+    padding-top: 46px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.photo1 button{
+    background-color: black;
+    color: white;
+    height: 29px;
+    width: 125px;
+font-size: 12px;
+margin-top: 16px;
+}
+.photo1:hover{
+         box-shadow: none;
+}
+.for{
+    font-size: 19px;
+    width: 155px;
+    margin-left: 35px;
+
+}
+.image button:hover{
+   
+     animation-name: deepak;
+     animation-duration: 1s;
+     animation-iteration-count: 1;
+}
+@keyframes deepak {
+    from {
+          width: 149px;
+          height: 44px;
+    }
+    to{
+        width: 152px;
+        height: 50px;
+    }
+}
